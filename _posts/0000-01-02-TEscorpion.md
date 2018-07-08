@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Performance Eq = Desire + Ability
 Use the left arrow to go back!
